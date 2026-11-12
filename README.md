@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Bruno 👋
+Cybersecurity student from Brazil, focused on SOC and Blue Team work.
 
-<!--
-**bruno-pereira-soc/bruno-pereira-soc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I'm working on
+- CompTIA Security+ (SY0-701), exam planned for February 2027
+- A home SOC lab with Wazuh/Splunk
+- Alert investigation write-ups
 
-Here are some ideas to get you started:
+## Skills
+Networking (Cisco) · Linux (Red Hat) · Log analysis · MITRE ATT&CK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+LinkedIn: linkedin.com/in/bruno-pereira-soc
